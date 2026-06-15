@@ -1,10 +1,5 @@
 [
 {"app_id":"小游戏编号（自定义）","app_name":"小游戏名称（自定义）","ad_time_id":"广告展示时机编号（自定义）","ad_type":"广告类型：1=Banner 2=激励视频 3=插屏 4=原生模板 99=分享","ad_unit_id":"广告位ID（平台定义，类型4须为原生模板广告位）","app_admin":"小游戏管理员"},
-{"app_id":"app1001","app_name":"数独修仙","ad_time_id":"ad001","ad_type":"1","ad_unit_id":"游戏页Banner广告位ID","app_admin":"俊角"},
-{"app_id":"app1001","app_name":"数独修仙","ad_time_id":"ad002","ad_type":"1","ad_unit_id":"设置页Banner广告位ID","app_admin":"俊角"},
-{"app_id":"app1001","app_name":"数独修仙","ad_time_id":"ad003","ad_type":"1","ad_unit_id":"统计页Banner广告位ID","app_admin":"俊角"},
-{"app_id":"app1001","app_name":"数独修仙","ad_time_id":"ad004","ad_type":"1","ad_unit_id":"暂停弹窗Banner广告位ID","app_admin":"俊角"},
-{"app_id":"app1001","app_name":"数独修仙","ad_time_id":"ad005","ad_type":"1","ad_unit_id":"恭喜弹窗Banner广告位ID","app_admin":"俊角"},
 {"app_id":"app1001","app_name":"数独修仙","ad_time_id":"ad006","ad_type":"99","ad_unit_id":"","app_admin":"俊角"},
 {"app_id":"app1001","app_name":"数独修仙","ad_time_id":"ad007","ad_type":"99","ad_unit_id":"","app_admin":"俊角"},
 {"app_id":"app1001","app_name":"数独修仙","ad_time_id":"ad008","ad_type":"99","ad_unit_id":"","app_admin":"俊角"},
